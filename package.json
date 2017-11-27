@@ -1,0 +1,27 @@
+{
+  "name": "markdown-converter",
+  "version": "0.2.2",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "description": "Markdown converter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4ok/markdown-converter"
+  },
+  "keywords": [
+    "markdown",
+    "converter",
+    "parser"
+  ],
+  "author": "4ok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4ok/markdown-converter/issues"
+  },
+  "homepage": "https://github.com/4ok/markdown-converter",
+  "dependencies": {
+    "escape-html": "^1.0.3"
+  }
+}
